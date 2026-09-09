@@ -1,4 +1,9 @@
 {
   "theme": "obsidian",
-  "accentColor": "#10eaa8"
+  "accentColor": "#10eaa8",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "custom-background"
+  ]
 }
