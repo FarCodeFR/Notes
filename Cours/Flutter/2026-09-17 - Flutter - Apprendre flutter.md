@@ -27,6 +27,10 @@ Utilisation de
 - Android studio 
 - Flutter
 - FVM
+- [Pub-dev](https://pub.dev/) listes des dépendances
+- `fvm flutter pub get` pour recharger les dépendances 
+- [Material](https://m3.material.io/develop/flutter)
+- Deux types d'états "StatelessWidget" & "StatefulWidget" avec ou sans STATES;
 
 ## 💡 Points clés à retenir
 
