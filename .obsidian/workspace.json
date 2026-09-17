@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
+                "file": "Notes/2026/09/2026-09-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-17 - Flutter - Apprendre flutter"
+              "title": "2026-09-17"
             }
           }
         ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
+                "file": "Notes/2026/09/2026-09-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -230,11 +230,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bfeb0f0926f52ab",
+  "active": "debcc96b646999ef",
   "lastOpenFiles": [
+    "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
     "Templates/Template Cours .md",
     "Templates/Template Quotidien.md",
-    "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
     "Notes/2026/09/2026-09-17.md",
     "Notes/2026/09/2026-09-08.md",
     "Cours/Flutter",
