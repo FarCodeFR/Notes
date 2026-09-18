@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2026/09/2026-09-17.md",
+                "file": "Notes/2026/09/2026-09-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-17"
+              "title": "2026-09-18"
             }
           }
         ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2026/09/2026-09-17.md",
+                "file": "Notes/2026/09/2026-09-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,12 +230,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "debcc96b646999ef",
+  "active": "9bfeb0f0926f52ab",
   "lastOpenFiles": [
     "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
+    "Notes/2026/09/2026-09-18.md",
+    "Notes/2026/09/2026-09-17.md",
     "Templates/Template Cours .md",
     "Templates/Template Quotidien.md",
-    "Notes/2026/09/2026-09-17.md",
     "Notes/2026/09/2026-09-08.md",
     "Cours/Flutter",
     "Templates/Template Cours.md.md",
