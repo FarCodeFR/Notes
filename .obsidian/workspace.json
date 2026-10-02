@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
+                "file": "Notes/2026/10/2026-10-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-17 - Flutter - Apprendre flutter"
+              "title": "2026-10-02"
             }
           }
         ],
@@ -232,13 +232,15 @@
   },
   "active": "9bfeb0f0926f52ab",
   "lastOpenFiles": [
+    "Templates/Template Quotidien.md",
+    "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
+    "Notes/2026/10/2026-10-02.md",
+    "Notes/2026/10",
     "Notes/2026/09/2026-09-09.md",
     "Notes/2026/09/2026-09-10.md",
     "Notes/2026/09/2026-09-17.md",
     "Notes/2026/09/2026-09-18.md",
-    "Templates/Template Quotidien.md",
     "Templates/Template Cours .md",
-    "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
     "Notes/2026/09/2026-09-08.md",
     "Cours/Flutter",
     "Templates/Template Cours.md.md",
@@ -253,7 +255,6 @@
     "Templates/2026/09",
     "Templates/2026",
     "Notes",
-    "Notes/2026/09/2026-09-06.md",
-    "Templates"
+    "Notes/2026/09/2026-09-06.md"
   ]
 }
