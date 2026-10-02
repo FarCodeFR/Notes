@@ -46,7 +46,7 @@ Utilisation de
 
 ## 📤 Rendus & deadlines
 
-- [ ] 
+- [ ] Application Rappel anniversaire
 
 ## 🔗 Ressources
 
