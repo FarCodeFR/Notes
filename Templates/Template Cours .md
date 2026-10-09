@@ -14,8 +14,9 @@ const MATIERES = [
   "UX / UI",
   "Gestion de projet",
   "Anglais",
-  "Flutter"
+  "Flutter",
   "Memoire",
+  "PFE",
 ];
 
 const TYPES = ["Cours", "TD", "TP", "Projet", "Conference", "Revision"];
