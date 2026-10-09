@@ -33,8 +33,8 @@ tags:
 - Gonfler veille, methodologie, quel type de form, pas reddit plus solide 
 
 Idées : 
-- Création d'un formulaire Google Form pour les entretiens 
-- Le partager sur différent sites
+- Création d'un formulaire Google Form FR/EN pour les entretiens 
+- Le partager sur différents sites
 
 ## ❓ Questions / à revoir
 
