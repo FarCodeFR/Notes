@@ -28,29 +28,29 @@ tags:
 - Faire un point tout les vendredi pour l'avancement du PFE.
 - 20 minutes de présentation
 - 10 minutes de questions-réponses avec le jury 
-- Veille problematique 
-- Recherche Google Form plus réel (concret) ou en physique 
-- Gonfler veille, methodologie, quel type de form, pas reddit plus solide 
-
-Idées : 
-- Création d'un formulaire Google Form FR/EN pour les entretiens 
-- Le partager sur différents sites
 
 ## ❓ Questions / à revoir
 
-- Solidifier ma veille sur ma problématique
+- Solidifier ma veille sur la problématique
 - Présentation plus captivante surtout dans un thème film et série plus story teeling 
-- Améliorer mon planning passer d'un tableau kanban à un tableau Scrumboard 
+- Améliorer mon planning, passer d'un tableau kanban à un tableau Scrumboard 
 
 ## ✅ Autres tâches
 
-- [ ] 📅  Vendredi 2026-10-09🛫
-- [ ] 📅  Vendredi 2026-11-13
+- [ ] 📅  Vendredi 2026-10-09🛫 
+
+- [ ] 📅  Vendredi 2026-11-13 : Avoir des données exploitables pour ma problématique / Formulaire FR/EN sur différents sites + Post REDDIT
+
 - [ ] 📅  Vendredi 2027-01-15
+
 - [ ] 📅  Vendredi 2027-02-19
+
 - [ ] 📅  Vendredi 2027-03-19
+
 - [ ] 📅  Vendredi 2027-04-16
+
 - [ ] 📅  Vendredi 2027-04-30
+
 - [ ] 📅  Vendredi 2027-05-21🏁 
 
 
