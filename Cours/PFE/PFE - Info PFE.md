@@ -37,7 +37,7 @@ tags:
 
 ## ✅ Autres tâches
 
-- [ ] 📅  Vendredi 2026-10-09🛫 
+- [x] 📅  Vendredi 2026-10-09🛫 ✅ 2026-10-12
 
 - [ ] 📅  Vendredi 2026-11-13 : Avoir des données exploitables pour ma problématique / Formulaire FR/EN sur différents sites + Post REDDIT
 
