@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2026/10/2026-10-16.md",
+                "file": "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-16"
+              "title": "2026-10-16 - DevOps - CI-CD"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2026/10/2026-10-16.md",
+                "file": "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2026/10/2026-10-16.md",
+                "file": "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2026/10/2026-10-16.md",
+                "file": "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,11 +204,14 @@
   },
   "active": "013ef464bf7a42be",
   "lastOpenFiles": [
-    "Cours/PFE/PFE - Info PFE.md",
     "Notes/2026/10/2026-10-16.md",
+    "Cours/DevOps",
+    "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
+    "Cours/DevOps/Sans titre.md",
+    "Cours/ALIAS.md",
+    "Cours/PFE/PFE - Info PFE.md",
     "Cours/PFE/2026-10-09 - PFE - Start.md",
     "Cours/PFE/2026-10-09 - PFE -.md",
-    "Cours/ALIAS.md",
     "Notes/2026/10/2026-10-09.md",
     "Notes/2026/10/2026-10-02.md",
     "Templates/Template Cours .md",
@@ -231,15 +234,11 @@
     "Bienvenue.md",
     "Sans titre.canvas",
     "Cours/PFE/Untitled.md",
-    "Untitled.md",
-    "Cours/PFE/Drawing 2026-10-09 09.01.42.excalidraw.md",
     "Cours/PFE",
-    "Notes/2026/09/2026-09-08.md",
     "Notes/2026/10",
     "Cours/Flutter",
     "Cours",
     "Cours/Dev-mobile",
-    "Journal",
-    "Notes/2026/09"
+    "Journal"
   ]
 }
