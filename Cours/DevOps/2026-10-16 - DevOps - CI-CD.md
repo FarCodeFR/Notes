@@ -15,7 +15,13 @@ Cours - DevOps
 ⬅️ Séance précédente : aucune seance anterieure
 
 ## 🎯 Objectifs de la séance
-- 
+
+-  Réaliser l'étape 1 et 2 avec react TSX 
+![[Exercice_pratique__automatiser_lint__tests_sur_GitHub.pdf]]
+
+![[Exercice_pratique__crire_un_test_qui_protge_le_code.pdf]]
+
+![[TP__Faire_parler_le_code_(ESLint__Prettier).pdf]]
 
 ## 📝 Notes
 
