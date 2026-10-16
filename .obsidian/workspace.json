@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
+                "file": "Cours/ALIAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-16 - DevOps - CI-CD"
+              "title": "ALIAS"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
+                "file": "Cours/ALIAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
+                "file": "Cours/ALIAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
+                "file": "Cours/ALIAS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,13 +203,13 @@
   },
   "active": "013ef464bf7a42be",
   "lastOpenFiles": [
-    "Notes/2026/10/2026-10-16.md",
-    "Cours/DevOps",
-    "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
-    "Cours/DevOps/Sans titre.md",
-    "Cours/ALIAS.md",
     "Cours/PFE/PFE - Info PFE.md",
     "Cours/PFE/2026-10-09 - PFE - Start.md",
+    "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
+    "Notes/2026/10/2026-10-16.md",
+    "Cours/DevOps",
+    "Cours/DevOps/Sans titre.md",
+    "Cours/ALIAS.md",
     "Cours/PFE/2026-10-09 - PFE -.md",
     "Notes/2026/10/2026-10-09.md",
     "Notes/2026/10/2026-10-02.md",
