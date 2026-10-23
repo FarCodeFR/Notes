@@ -42,16 +42,6 @@ Structure d’un ADR :
 - Nommage : `0001-choix-de-la-stack-technique.md`, `0002-…`
 - Un ADR par décision structurante. Un ADR accepté n’est jamais modifié : on en écrit un nouveau qui le remplace, avec la date et le lien entre les deux.
 
-| N°   | Titre                                                                     | Horizon       |
-| ---- | ------------------------------------------------------------------------- | ------------- |
-| 0001 | Stack technique (Next.js + Firebase vs alternatives)                      | 6 mois (acté) |
-| 0002 | Stratégie de rendu par type de page (SSG/ISR/SSR)                         | 6 mois        |
-| 0003 | Architecture hexagonale pour le cœur métier                               | 1 an          |
-| 0004 | Extraction du service Paiement (+ prestataire : Stripe, Mangopay…)        | 1 an          |
-| 0005 | API Gateway                                                               | 1 an          |
-| 0006 | Découpage en microservices (Annonces, Recherche, Paiement, Notifications) | 3 ans         |
-| 0007 | Kubernetes vs services managés (Cloud Run, ECS…)                          | 3 ans         |
-
 ## ❓ Questions / à revoir
 
 ## ✅ Autres tâches
