@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
+                "file": "Cours/Stratégie technique/2026-10-23 - Stratégie technique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-17 - Flutter - Apprendre flutter"
+              "title": "2026-10-23 - Stratégie technique"
             }
           }
         ]
@@ -203,6 +203,10 @@
   },
   "active": "013ef464bf7a42be",
   "lastOpenFiles": [
+    "Templates/Template Cours .md",
+    "Cours/Stratégie technique/2026-10-23 - Stratégie technique.md",
+    "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
+    "Cours/Stratégie technique",
     "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
     "Cours/PFE/2026-10-09 - PFE - Start.md",
     "Cours/PFE/PFE - Info PFE.md",
@@ -216,7 +220,6 @@
     "Cours/PFE/2026-10-09 - PFE -.md",
     "Notes/2026/10/2026-10-09.md",
     "Notes/2026/10/2026-10-02.md",
-    "Templates/Template Cours .md",
     "Cours/PFE/Sans titre",
     "Cours/PFE/2026-10-09 - PFE - Proto.md",
     "Notes/2026/09/2026-09-18.md",
@@ -232,12 +235,9 @@
     "Cours/Angular/Sans titre.md",
     "Cours/Angular/2026-10-09 - Angular.md",
     "2026-10-09 - PFE.md",
-    "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
     "Bienvenue.md",
     "Sans titre.canvas",
-    "Cours/PFE/Untitled.md",
     "Cours/PFE",
-    "Notes/2026/10",
-    "Cours/Flutter"
+    "Notes/2026/10"
   ]
 }

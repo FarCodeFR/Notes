@@ -55,7 +55,7 @@ const OPEN = "[".repeat(2);
 const CLOSE = "]".repeat(2);
 const lienPrec = precedentes.length
   ? OPEN + precedentes[0].path.slice(0, -3) + "|" + precedentes[0].basename + CLOSE
-  : "aucune seance anterieure";
+  : "aucune séance antérieure";
 
 const h1 = sujet ? sujet : matiere;
 const ligneProf = prof ? NL + "> Intervenant : " + prof : "";
