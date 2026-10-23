@@ -33,12 +33,23 @@ Architecture hexagonale
 on met le metier au sens de tout et on le mets en dehors du reste pour qu'ensuite on puisse tester ou changer sans devoirs tout casser.
 
 On choisi un seul design architecture pour le projet mais on peu utiliser plusieurs design patterns en fonction du projet 
+
+Dossier ADR avec fichier 0001-choix-des-stacks-en-fonction-de-la-fonctionnalité
+Tous notifier Décision, Conséquences, Contexte avec les dates et les changements
+
+Créer un ADR pour chaque élement
+Stack technique :  
+Kubernetest : 
+Paiement en ligne :
+
+
+
 ## ❓ Questions / à revoir
 - 
 
 ## ✅ Autres tâches
-- [ ] Choix d'architecture + créer un ADR
-- [ ] Concevoir l'architecture cible du cas 6mois 1ans 3ans 
+- [ ] Choix d'architecture + créer les ADR
+- [ ] Concevoir l'architecture cible du cas 6mois 1an 3ans ( budget, loyer : pas aller trop loin), l'évolution au bout d'un an puis à 3 ans une cible plutôt assumé microservice et l'organisation, nombre de dev, ce que l'on expert même si il y'aura des modifications, ADR sur 1 et 3 ans car 6 mois sont déjà réalisé
 - [ ] 6 mois ce que vous construisez maintenant, avec l'équipe et le budget réels 
 - [ ] 1 ans les extractions et renforts prévus, et leurs conditions de déclenchement.
 - [ ] 3 ans La cible assumée, est ce que l'architecture d'aujourd'hui doit lui laisser ouvert
