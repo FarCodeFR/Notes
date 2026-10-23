@@ -38,6 +38,10 @@ On choisi un seul design architecture pour le projet mais on peu utiliser plusie
 
 ## ✅ Autres tâches
 - [ ] Choix d'architecture + créer un ADR
+- [ ] Concevoir l'architecture cible du cas 6mois 1ans 3ans 
+- [ ] 6 mois ce que vous construisez maintenant, avec l'équipe et le budget réels 
+- [ ] 1 ans les extractions et renforts prévus, et leurs conditions de déclenchement.
+- [ ] 3 ans La cible assumée, est ce que l'architecture d'aujourd'hui doit lui laisser ouvert
 
 ## 📌 Tâches non terminées (séances précédentes)
 ```tasks
