@@ -29,7 +29,10 @@ Options envisagées
 Décision retenue
 Conséquences, positives et négatives
 
+Architecture hexagonale
+on met le metier au sens de tout et on le mets en dehors du reste pour qu'ensuite on puisse tester ou changer sans devoirs tout casser.
 
+On choisi un seul design architecture pour le projet mais on peu utiliser plusieurs design patterns en fonction du projet 
 ## ❓ Questions / à revoir
 - 
 
