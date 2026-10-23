@@ -31,6 +31,7 @@ Utilisation de
 - `fvm flutter pub get` pour recharger les dépendances 
 - [Material](https://m3.material.io/develop/flutter)
 - Deux types d'états "StatelessWidget" & "StatefulWidget" avec ou sans STATES;
+- flutter run --release -d 00008120-00147C5E0C28C01E  pour build 1 fois l'app sur le portable une fois fini l'application pourra être utiliser sans le lancer sur Vscode
 
 ## 💡 Points clés à retenir
 
