@@ -79,8 +79,7 @@
               "title": "Signets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "277ce11019b697cd",
+  "active": "724287210105c044",
   "lastOpenFiles": [
     "Cours/Sécurité-Hacking/2026-11-02 - Sécurité-Hacking - Sécurité.md",
     "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",

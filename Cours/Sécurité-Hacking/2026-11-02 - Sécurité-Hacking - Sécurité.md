@@ -57,11 +57,13 @@ Calculateur du système d'évaluation des vulnérabilités communes (CVSS) versi
 
 <font color="#00b050">Shodan</font>  [Lien](https://www.shodan.io/)  + <font color="#00b050">Exploit-db</font>  [Lien](https://www.exploit-db.com/)
 
-Robot qui navigue et cherche des failles 
+Robot qui navigue et cherche des failles ou avec SBM viewer
+
 
 
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
+- Vérifier les vulnérabilités avec npm audit ou SonarQube
 
 ## ✅ Autres tâches
 - [ ] 
