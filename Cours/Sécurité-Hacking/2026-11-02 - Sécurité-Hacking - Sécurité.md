@@ -74,9 +74,49 @@ Chaque phase arrête ses propres défauts
 	Déploiement
 	Exploitation
 
+
+<font color="#00b050">Trouver plus tôt avant de merge</font>
+
+	Injection
+SAST, Lint, Revue de code
+
+	Dépendance vulnérable
+SCA dans la PR
+
+	Faille d'autorisation
+Tests d'autorisation, middleware central
+
+	Abus métier
+Exigences, threat modeling
+
+	Configuration cloud
+Scan de l'Iac
+
+
+<font color="#00b050">Safe Coding : rendre l'erreur rare et visible</font>
+
+	Entrées
+	Requêtes
+	Navigateur
+	Echapatoire
+
+
+<font color="#00b050">Métier de la CyberSécurité</font>
+
+	Ingénieur AppSec
+	Architecte sécurité
+	Security Champion
+	Ingénieur DevSecOps
+	Pentester, red team
+	Analyste SOC
+	RSSI
+
+
+
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
 - Vérifier les vulnérabilités avec npm audit ou SonarQube
+- 
 
 ## ✅ Autres tâches
 - [ ] 
