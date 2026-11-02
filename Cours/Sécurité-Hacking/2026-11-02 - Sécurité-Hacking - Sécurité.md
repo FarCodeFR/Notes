@@ -112,6 +112,19 @@ Scan de l'Iac
 	RSSI
 
 
+<font color="#00b050">Six menaces, Six propriétés </font>
+
+	Spoofing / Authenticité
+	Tampering / Intégrité
+	Repudiation / Non-répudiation
+	Information disclosure / Confidentialité
+	Denial of service / Disponibilité
+	Elevation of privilege / Autorisation
+
+
+<font color="#00b050">Abuse case : </font>
+
+C'est l'user story d'un acteur malveillant
 
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
