@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Stratégie technique/2026-10-23 - Stratégie technique.md",
+                "file": "Cours/Sécurité-Haking/2026-11-02 - Sécurité-Haking - Sécurité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-23 - Stratégie technique"
+              "title": "2026-11-02 - Sécurité-Haking - Sécurité"
             }
           }
         ]
@@ -203,8 +203,12 @@
   },
   "active": "013ef464bf7a42be",
   "lastOpenFiles": [
-    "Templates/Template Cours .md",
+    "Notes/2026/11/2026-11-02.md",
+    "Cours/Sécurité-Haking",
+    "Cours/Sécurité-Haking/2026-11-02 - Sécurité-Haking - Sécurité.md",
     "Cours/Stratégie technique/2026-10-23 - Stratégie technique.md",
+    "Notes/2026/11",
+    "Templates/Template Cours .md",
     "Cours/Flutter/2026-09-17 - Flutter - Apprendre flutter.md",
     "Cours/Stratégie technique",
     "Cours/DevOps/2026-10-16 - DevOps - CI-CD.md",
@@ -234,10 +238,6 @@
     "Cours/SolidJS/2026-10-09 - SolidJS - test.md",
     "Cours/Angular/Sans titre.md",
     "Cours/Angular/2026-10-09 - Angular.md",
-    "2026-10-09 - PFE.md",
-    "Bienvenue.md",
-    "Sans titre.canvas",
-    "Cours/PFE",
-    "Notes/2026/10"
+    "Sans titre.canvas"
   ]
 }
