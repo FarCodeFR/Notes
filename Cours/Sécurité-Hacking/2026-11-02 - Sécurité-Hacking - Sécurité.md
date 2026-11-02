@@ -62,6 +62,8 @@ Calculateur du système d'évaluation des vulnérabilités communes (CVSS) versi
 Robot qui navigue et cherche des failles ou avec SBM viewer
 
 
+<font color="#00b050">SSDLC</font>
+
 <font color="#00b050">SCCTDE</font>
 Chaque phase arrête ses propres défauts 
 
