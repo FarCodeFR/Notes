@@ -48,10 +48,12 @@ Qu'a décidé le garde, pour qui, pourquoi ?
 <font color="#00b050">CVE</font> [Lien](https://www.cve.org/)
 
 C'est l'identifiant unique d'une vulnérabilité précise.
+Un catalogue public qui attribue des numéros d'identification uniques pour chaque faille de sécurité
 
 
 <font color="#00b050">CVSS</font> [Lien](https://www.first.org/cvss/calculator/4.0)
 
+Un système de notation numérique et d'évaluation de la gravité
 Calculateur du système d'évaluation des vulnérabilités communes (CVSS) version 4.0
 
 
@@ -60,6 +62,15 @@ Calculateur du système d'évaluation des vulnérabilités communes (CVSS) versi
 Robot qui navigue et cherche des failles ou avec SBM viewer
 
 
+<font color="#00b050">SCCTDE</font>
+Chaque phase arrête ses propres défauts 
+
+	Spécification
+	Conception
+	Codage
+	Tests
+	Déploiement
+	Exploitation
 
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
