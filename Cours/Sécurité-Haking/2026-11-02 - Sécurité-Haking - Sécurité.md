@@ -2,11 +2,11 @@
 matiere: Sécurité/Haking
 type: Cours
 date: 2026-11-02
-intervenant: 
+intervenant:
 statut: brouillon
 tags:
   - cours
-  - s-curit-haking
+  - sécurité-haking
 ---
 
 # Sécurité
