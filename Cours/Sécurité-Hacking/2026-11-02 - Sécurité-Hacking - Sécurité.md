@@ -139,6 +139,26 @@ Site recherche de bug bounty
 
 - **Cryptomonnaies :** La clé publique fait office d'adresse pour recevoir des fonds, et la clé privée sert à signer et valider les transactions
 
+
+<font color="#00b050">Anti-pattern</font>
+
+	Client-Side Enforcement
+Le serveur s'en remet au client pour un contrôle qui le protège
+
+	Trust Boundary Violation
+Données vérifiées et brutes dans la même structure
+
+	Untrusted Control Sphere
+Un composant privilégié agit pour un appelant qui ne l'est pas.
+
+	Confused Deputy
+Un tiers décide du code qui s'execute
+
+	Unmaintained Component
+Une faille que plus personne ne peut corriger
+
+
+
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
 - Vérifier les vulnérabilités avec npm audit ou SonarQube
