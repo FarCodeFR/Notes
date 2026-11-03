@@ -131,6 +131,14 @@ C'est l'user story d'un acteur malveillant
 
 Site recherche de bug bounty 
 
+<font color="#00b050">Information Clé PRIVE clé PUBLIC </font>
+
+- **Connexions sécurisées (HTTPS / SSL-TLS) :** Le serveur utilise sa clé privée pour garantir la sécurité de la session, tandis que la clé publique est intégrée au certificat numérique consulté par votre navigateur.
+
+- **Accès aux serveurs (SSH) :** La clé publique est placée sur le serveur distant, et la clé privée reste sur votre ordinateur pour prouver votre identité.
+
+- **Cryptomonnaies :** La clé publique fait office d'adresse pour recevoir des fonds, et la clé privée sert à signer et valider les transactions
+
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
 - Vérifier les vulnérabilités avec npm audit ou SonarQube
