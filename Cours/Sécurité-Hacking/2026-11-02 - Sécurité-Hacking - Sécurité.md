@@ -142,7 +142,6 @@ Site recherche de bug bounty
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
 - Vérifier les vulnérabilités avec npm audit ou SonarQube
-- 
 
 ## ✅ Autres tâches
 - [ ] 
