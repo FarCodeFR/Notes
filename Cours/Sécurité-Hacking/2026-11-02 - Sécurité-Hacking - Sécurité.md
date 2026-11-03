@@ -158,6 +158,11 @@ Un tiers décide du code qui s'execute
 Une faille que plus personne ne peut corriger
 
 
+<font color="#00b050">Deux types de requêtes HTTP </font>
+
+	Les requêtes Top-Level 
+	Les requêtes XHR/FETCH
+
 
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
