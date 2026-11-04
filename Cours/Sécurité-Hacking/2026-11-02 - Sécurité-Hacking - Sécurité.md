@@ -224,6 +224,7 @@ Même site, plus les clics sur un lien depuis un autre site (navigation GET)
 Uniquement  les requêtes venant du même site
 
 
+![[Capture d’écran 2026-11-04 à 12.16.35.png]]
 
 
 ## ❓ Questions / à revoir
