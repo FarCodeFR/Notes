@@ -27,8 +27,8 @@ Cours - Sécurité/Haking
 
 	D : Disponibilité
 	I : Intégrité
-	T : Confidentialité
-	C : Traçabilité
+	T : Traçabilité
+	C : Confidentialité
 
 
 <font color="#00b050">Gold Standard </font>
@@ -59,7 +59,7 @@ Calculateur du système d'évaluation des vulnérabilités communes (CVSS) versi
 
 <font color="#00b050">Shodan</font>  [Lien](https://www.shodan.io/)  + <font color="#00b050">Exploit-db</font>  [Lien](https://www.exploit-db.com/)
 
-Robot qui navigue et cherche des failles ou avec SBM viewer
+Robot qui navigue et cherche des failles et SBM viewer
 
 
 <font color="#00b050">SSDLC</font>
@@ -114,12 +114,24 @@ Scan de l'Iac
 
 <font color="#00b050">Six menaces, Six propriétés </font>
 
+
 	Spoofing / Authenticité
+Un attaquant se fait passer pour un utilisateur légitime avec un mot de passe volé, ou envoie un faux e-mail de phishing qui imite ta banque.
+
 	Tampering / Intégrité
+Modifier le prix d’un article dans la requête HTTP (ex. passer 100 € à 1 €) avant qu’elle n’arrive au serveur.
+
 	Repudiation / Non-répudiation
+Un utilisateur supprime un compte client puis nie l’avoir fait, et aucun log n’existe pour prouver le contraire.
+
 	Information disclosure / Confidentialité
-	Denial of service / Disponibilité
+Une injection SQL qui expose la table des utilisateurs, ou une API qui renvoie trop de champs (mots de passe hashés, e-mails).
+
+	Denial of service / Disponibilité // DDOS
+Un botnet inonde le serveur de requêtes (DDoS) jusqu’à ce que le site ne réponde plus.
+
 	Elevation of privilege / Autorisation
+Un utilisateur standard modifie l’ID dans l’URL (`/admin/users/1`) et accède à des fonctions réservées aux administrateurs.
 
 
 <font color="#00b050">Abuse case : </font>
@@ -162,6 +174,44 @@ Une faille que plus personne ne peut corriger
 
 	Les requêtes Top-Level 
 	Les requêtes XHR/FETCH
+
+
+<font color="#00b050">WebStorage / Cookie </font>
+
+> Les cookies sont plus sûrs contre le vol de token par XSS **s’ils ont le flag `HttpOnly`** : le JavaScript ne peut pas les lire, donc un script injecté ne peut pas les récupérer. Le `localStorage`, lui, est accessible à n’importe quel JS exécuté sur la page, y compris un script malveillant injecté par XSS. Dans les deux cas, les données restent propres au navigateur de l’utilisateur et isolées par origine : un autre site ne peut pas les lire.
+
+**À retenir :**
+
+- Un cookie **sans** `HttpOnly` est lisible en JS, comme le `localStorage`.
+- Il faut ajouter `Secure` (HTTPS uniquement) et `SameSite` (contre le CSRF).
+- `HttpOnly` empêche le **vol** du token, pas les requêtes faites au nom de l’utilisateur pendant la XSS.
+- Les cookies exposent au CSRF, pas le `localStorage`.
+
+
+<font color="#00b050">RLS / Row Level Security </font>
+
+N'accéder qu'a ses propres données par exemple discord chaque chanel accède à leurs données.
+
+
+<font color="#00b050">Déléguer un accès au Drive </font> OAuth
+
+![[Capture d’écran 2026-11-04 à 10.35.09.png]]
+
+![[Capture d’écran 2026-11-04 à 10.35.40.png]]
+
+
+<font color="#00b050">OIDC est une surcouche à OAuth </font>
+
+![[Capture d’écran 2026-11-04 à 10.36.35 1.png]]
+
+![[Capture d’écran 2026-11-04 à 10.37.08.png]]
+
+
+<font color="#00b050">SSO</font>
+
+Permet de se connecter une seule fois pour accéder à plusieurs applicaitons 
+
+
 
 
 ## ❓ Questions / à revoir
