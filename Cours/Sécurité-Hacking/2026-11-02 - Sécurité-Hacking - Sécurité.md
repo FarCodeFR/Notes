@@ -212,6 +212,18 @@ N'accéder qu'a ses propres données par exemple discord chaque chanel accède �
 Permet de se connecter une seule fois pour accéder à plusieurs applicaitons 
 
 
+<font color="#00b050">SameSite</font> Cookies disponible
+
+	None
+Toujours, y compris depuis d’autres sites (iframes, requêtes cross-site)
+
+	Lux
+Même site, plus les clics sur un lien depuis un autre site (navigation GET)
+
+	Strict
+Uniquement  les requêtes venant du même site
+
+
 
 
 ## ❓ Questions / à revoir
