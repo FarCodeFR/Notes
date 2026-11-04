@@ -227,6 +227,7 @@ Uniquement  les requêtes venant du même site
 ![[Capture d’écran 2026-11-04 à 12.16.35.png]]
 
 
+<font color="#00b050">Outils FFUF apt </font> [Lien](https://www.kali.org/tools/ffuf/) pour tester different lien avec des mots clé
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
 - Vérifier les vulnérabilités avec npm audit ou SonarQube
