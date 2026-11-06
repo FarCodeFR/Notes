@@ -12,8 +12,7 @@ tags:
 # Sécurité
 Cours - Sécurité/Haking
 📆 lundi 02 novembre 2026
-⬅️ Séance précédente : aucune séance antérieure
-
+⬅️ Séance précédente : [After](obsidian://open?vault=Notes&file=Cours%2FS%C3%A9curit%C3%A9-Hacking%2F2026-11-06%20-%20S%C3%A9curit%C3%A9-Hacking%20-%20D%C3%A9fense)
 ## 🎯 Objectifs de la séance
 - 
 
@@ -229,17 +228,11 @@ Uniquement  les requêtes venant du même site
 
 <font color="#00b050">Outils FFUF apt </font> [Lien](https://www.kali.org/tools/ffuf/) pour tester different lien avec des mots clé
 
-<font color="#00b050">Outils de défense </font>
-
-digitalDefense
-et proton drive
-
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
 - Vérifier les vulnérabilités avec npm audit ou SonarQube
 
 ## ✅ Autres tâches
-- [ ] 
 
 ## 📌 Tâches non terminées (séances précédentes)
 ```tasks
