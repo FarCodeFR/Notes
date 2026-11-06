@@ -42,7 +42,7 @@ Gitleaks est un outil open source de cybersécurité (de type SAST — _Static A
 
 <font color="#00b050">Pip-audit / npm-audit </font>
 pour vérifier seulement les dépendances 
-ou SonarQube pour tout centraliser 
+ou SonarQbe pour tout centraliser 
 
 ![[Capture d’écran 2026-11-06 à 14.51.30.png]]
 
