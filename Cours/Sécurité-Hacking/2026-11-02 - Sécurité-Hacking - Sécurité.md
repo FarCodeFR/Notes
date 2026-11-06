@@ -228,6 +228,12 @@ Uniquement  les requêtes venant du même site
 
 
 <font color="#00b050">Outils FFUF apt </font> [Lien](https://www.kali.org/tools/ffuf/) pour tester different lien avec des mots clé
+
+<font color="#00b050">Outils de défense </font>
+
+digitalDefense
+et proton drive
+
 ## ❓ Questions / à revoir
 - Vérifier comment son stocker les secrets/Token 
 - Vérifier les vulnérabilités avec npm audit ou SonarQube
