@@ -29,6 +29,24 @@ Un sink c'est une function qui peut être dangereuse par exemple détourner un f
 <font color="#00b050">Source to sink ou Sink to source </font>
 
 
+<font color="#00b050">Utiliser Semgrep avec un format de fichier Sarif</font>
+un outil d'analyse statique de code (SAST) open-source. Il lit le code source sans l'exécuter pour y détecter des vulnérabilités de sécurité, des bugs, des anti-patterns ou des erreurs de configuration.
+
+<font color="#00b050">Owasp zap </font>
+est un outil **open-source** et gratuit de test de sécurité des applications web et des API,
+
+
+<font color="#00b050">Git leaks</font>
+Gitleaks est un outil open source de cybersécurité (de type SAST — _Static Application Security Testing_) conçu pour détecter les **secrets codés en dur** (mots de passe, clés d'API, jetons d'accès ou _tokens_) dans les dépôts Git et leur historique
+
+
+<font color="#00b050">Pip-audit / npm-audit </font>
+pour vérifier seulement les dépendances 
+ou SonarQube pour tout centraliser 
+
+![[Capture d’écran 2026-11-06 à 14.51.30.png]]
+
+
 ## 💡 Points clés à retenir
 - 
 
